@@ -1,0 +1,5 @@
+<p>This is an example of what your fic text should look like. Feel free to apply poison to it as a test!</p>
+
+<p>Does your text include the HTML tags? (This means <b>bold</b> and <i>italics</i> too!) If not, make sure to hit the button to use Ao3's HTML editor, NOT the Rich Text editor!</p>
+
+<p>You can paste your text into the Rich Text editor and then swap to HTML to auto-format your fic if needed.</p>

@@ -318,7 +318,6 @@ adrenaline
 adrenals
 ads
 adult
-adultery
 adults
 advance
 advanced
@@ -1077,7 +1076,6 @@ arrow
 arrowhead
 arrows
 arroyo
-arse
 arsenal
 arsenic
 arson
@@ -1136,7 +1134,6 @@ aspirations
 aspire
 aspirin
 aspirins
-ass
 assailant
 assassin
 assassinate
@@ -1161,8 +1158,6 @@ assessing
 assessment
 asset
 assets
-asshole
-assholes
 assign
 assigned
 assigning
@@ -1687,8 +1682,6 @@ bass
 bassett
 bassinet
 bassoon
-bastard
-bastards
 baste
 bastille
 bat
@@ -2075,10 +2068,6 @@ bison
 bisque
 bistro
 bit
-bitch
-bitches
-bitching
-bitchy
 bite
 bites
 biting
@@ -2812,8 +2801,6 @@ bullies
 bullion
 bullpen
 bulls
-bullshit
-bullshitting
 bully
 bum
 bumble
@@ -3646,7 +3633,6 @@ chickened
 chickening
 chickenpox
 chickens
-chickenshit
 chicks
 chico
 chief
@@ -3801,7 +3787,6 @@ circulate
 circulated
 circulation
 circulatory
-circumcision
 circumference
 circumstance
 circumstances
@@ -3969,7 +3954,6 @@ clipping
 clippings
 clips
 clique
-clitoris
 cloak
 clobbered
 clock
@@ -4075,7 +4059,6 @@ cobweb
 cobwebs
 coca
 cocaine
-cock
 cockamamie
 cocked
 cockles
@@ -4083,8 +4066,6 @@ cockney
 cockpit
 cockroach
 cockroaches
-cocksucker
-cocksuckers
 cocktail
 cocktails
 cocky
@@ -5383,14 +5364,11 @@ culturally
 culture
 cultured
 cultures
-cum
 cumin
 cummerbund
 cumulative
 cuneiform
 cunning
-cunt
-cunts
 cup
 cupboard
 cupboards
@@ -5538,11 +5516,6 @@ damaged
 damages
 damaging
 dame
-damn
-damnable
-damned
-damnedest
-damning
 damp
 dampened
 dampener
@@ -6208,12 +6181,8 @@ dibs
 dice
 diced
 dicey
-dick
 dickens
 dickie
-dicking
-dicks
-dicky
 dictate
 dictated
 dictates
@@ -7087,8 +7056,6 @@ dyed
 dyeing
 dyer
 dying
-dyke
-dykes
 dynamic
 dynamics
 dynamite
@@ -8127,11 +8094,6 @@ faded
 fades
 fading
 fads
-fag
-faggot
-faggots
-faggy
-fags
 fail
 failed
 failing
@@ -9190,13 +9152,6 @@ fry
 fryer
 frying
 fuchsia
-fuck
-fucked
-fucker
-fuckers
-fucking
-fucks
-fuckup
 fudge
 fudged
 fudging
@@ -9685,10 +9640,6 @@ goblet
 goblin
 goblins
 gobs
-god
-goddam
-goddamn
-goddamned
 goddaughter
 goddess
 goddesses
@@ -10353,7 +10304,6 @@ hawker
 hawking
 hawks
 hay
-haycock
 hayloft
 hayseed
 haystack
@@ -10578,8 +10528,6 @@ hesitates
 hesitating
 hesitation
 hessian
-hetero
-heterosexual
 hex
 hexes
 hey
@@ -10710,9 +10658,7 @@ hockey
 hocking
 hocks
 hocus
-hoe
 hoedown
-hoes
 hog
 hogan
 hogging
@@ -10784,12 +10730,6 @@ homicides
 homily
 homing
 homo
-homophobia
-homophobic
-homos
-homosexual
-homosexuality
-homosexuals
 hon
 honda
 honed
@@ -10892,7 +10832,6 @@ horsemen
 horsepower
 horseradish
 horses
-horseshit
 horsey
 horsing
 horticulture
@@ -12067,8 +12006,6 @@ jabs
 jack
 jackal
 jackals
-jackass
-jackasses
 jacked
 jackers
 jacket
@@ -14403,9 +14340,6 @@ motels
 moth
 mothballs
 mother
-motherfucker
-motherfuckers
-motherfucking
 motherhood
 mothering
 motherless
@@ -14702,8 +14636,6 @@ navigator
 navy
 naw
 nay
-nazi
-nazis
 ne
 near
 nearby
@@ -14851,8 +14783,6 @@ nicotine
 niece
 nieces
 nifty
-nigger
-niggers
 nigh
 night
 nightcap
@@ -16081,8 +16011,6 @@ penguin
 penguins
 penicillin
 peninsula
-penis
-penises
 penitentiary
 pennant
 penne
@@ -16436,12 +16364,6 @@ piranhas
 pirate
 pirated
 pirates
-pis
-piss
-pissant
-pissed
-pisses
-pissing
 pistachio
 pistachios
 pistol
@@ -17331,9 +17253,6 @@ prosper
 prosperity
 prostate
 prosthetic
-prostitute
-prostitutes
-prostitution
 protect
 protected
 protecting
@@ -17559,9 +17478,7 @@ pushes
 pushing
 pushover
 pushy
-puss
 pussies
-pussy
 pussycat
 put
 putrid
@@ -17802,9 +17719,6 @@ rant
 ranting
 rants
 rap
-rape
-raped
-rapes
 rapid
 rapidly
 rapids
@@ -18637,8 +18551,6 @@ retaliate
 retaliated
 retaliating
 retaliatory
-retard
-retarded
 retest
 rethink
 rethinking
@@ -19537,7 +19449,6 @@ scriptures
 scroll
 scrolls
 scrooge
-scrotum
 scrounge
 scrounging
 scrub
@@ -19692,7 +19603,6 @@ seltzer
 selves
 semantics
 semblance
-semen
 semester
 semi
 semiautomatic
@@ -19831,17 +19741,6 @@ sewer
 sewers
 sewing
 sewn
-sex
-sexes
-sexier
-sexiest
-sexism
-sexist
-sexless
-sexual
-sexuality
-sexually
-sexy
 sh
 sha
 shabbily
@@ -20003,11 +19902,6 @@ shirking
 shirt
 shirtless
 shirts
-shit
-shithead
-shits
-shitting
-shitty
 shiv
 shiva
 shiver
@@ -20553,9 +20447,6 @@ slur
 slurp
 slurping
 slush
-slut
-sluts
-slutty
 sly
 smack
 smacked
@@ -20565,7 +20456,6 @@ small
 smaller
 smallest
 smart
-smartass
 smarter
 smartest
 smarts
@@ -22107,7 +21997,6 @@ swapped
 swapping
 swarm
 swarming
-swastika
 swat
 swatch
 swatches
@@ -22610,9 +22499,6 @@ terry
 test
 testament
 tested
-testicle
-testicles
-testicular
 testified
 testifies
 testify
@@ -22916,16 +22802,12 @@ tiring
 tis
 tissue
 tissues
-tit
 titan
 titanic
 titanium
 titans
 title
 titles
-tits
-titties
-titty
 tizzy
 to
 toad
@@ -23229,9 +23111,6 @@ transportation
 transported
 transporting
 transports
-transsexual
-transvestite
-transvestites
 trap
 trapeze
 trapped
@@ -23516,7 +23395,6 @@ tuxedos
 tuxes
 twain
 twas
-twat
 tweak
 tweaked
 tweaking
@@ -24845,8 +24723,6 @@ whoops
 whoosh
 whopper
 whopping
-whore
-whores
 whose
 why
 whys
@@ -24958,7 +24834,6 @@ wiretaps
 wiring
 wisdom
 wise
-wiseass
 wisecracks
 wised
 wisely

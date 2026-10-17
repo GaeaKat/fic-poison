@@ -31,7 +31,7 @@ ALLOWED_PARENTS = {
     "h1", "h2", "h3", "h4", "h5", "h6",
 }
 
-def poison_xhtml(xhtml: str, word_list: list[str], poison_class: str) -> str:
+def poison_xhtml(xhtml: str, word_list: list[str], poison_class: str) -> BeautifulSoup:
     words = [w.strip() for w in word_list if w.strip()]
     soup = BeautifulSoup(xhtml, "xml")          # needs lxml; keeps XHTML as XML
     body = soup.find("body")
@@ -55,7 +55,7 @@ def poison_xhtml(xhtml: str, word_list: list[str], poison_class: str) -> str:
             pos += step
         node.replace_with(*parts)
 
-    return str(soup)
+    return soup
 
 def poison_epub(filename: str, mode: str, poison_class: str):
     # Get word list
@@ -65,12 +65,14 @@ def poison_epub(filename: str, mode: str, poison_class: str):
         words = words.split("\n")
 
     book = epubfile.Epub(filename)
+    nav_ids = set(book.get_nav() or [])
     for text_id in book.get_texts():
+        if text_id in nav_ids:
+            continue
         soup = book.read_file(text_id, soup=False)
         html = str(soup)
         poisoned = poison_xhtml(html, words, poison_class)
-        soup = BeautifulSoup(poisoned, 'html.parser')
-        book.write_file(text_id, soup)
+        book.write_file(text_id, poisoned)
     for style_id in book.get_styles():
         temp = book.read_file(style_id,soup=False)
         temp+='\r\n.'+poison_class+ ' {\r\n  display: none;\r\n}'

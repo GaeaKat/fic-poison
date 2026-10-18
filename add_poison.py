@@ -142,6 +142,7 @@ def add_poison(filename: str, mode: str, poison_class: str):
 
 
 if __name__ == "__main__":
+    try:
         if len(argv) > 1:
             filename, mode, poison_class, epub = parse_args()
         else:
@@ -169,7 +170,8 @@ Make sure to edit your Ao3 workskin to reflect the new class name if you use som
             print(f"\nSuccess!\nSaved to {new_filename}")
         else:
             poison_epub(filename, mode, poison_class)
-
-
+    except Exception as e:
+        print("\nUh oh! Something went wrong.")
+        print(e)
 
 input("Press Enter to close window")
